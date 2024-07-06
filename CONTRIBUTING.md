@@ -1,1 +1,1 @@
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome. It would be of great importance to contribute to the creation of a new neural network so that the system is much faster.
